@@ -1,0 +1,23 @@
+#words for hangman game
+words = (
+    "apple", "banana", "orange", "grape", "mango", "pineapple", "strawberry", "blueberry", "watermelon", "kiwi",
+    "peach", "plum", "cherry", "apricot", "pear", "pomegranate", "raspberry", "blackberry", "coconut", "lime",
+    "lemon", "fig", "papaya", "guava", "cranberry", "avocado", "passionfruit", "lychee", "nectarine", "tangerine",
+    "carrot", "potato", "tomato", "cucumber", "broccoli", "cauliflower", "cabbage", "spinach", "lettuce", "radish",
+    "onion", "garlic", "ginger", "pumpkin", "zucchini", "beetroot", "asparagus", "peas", "eggplant", "turnip",
+    "bellpepper", "corn", "celery", "leek", "artichoke", "brusselsprout", "okra", "chard", "parsnip", "sweetpotato",
+    "lion", "tiger", "elephant", "giraffe", "zebra", "hippopotamus", "rhinoceros", "leopard", "cheetah", "panther",
+    "jaguar", "bear", "wolf", "fox", "coyote", "buffalo", "bison", "deer", "moose", "elk",
+    "rabbit", "squirrel", "rat", "mouse", "hamster", "hedgehog", "otter", "raccoon", "skunk", "mongoose",
+    "kangaroo", "koala", "sloth", "anteater", "armadillo", "badger", "beaver", "ferret", "weasel", "porcupine",
+    "dolphin", "whale", "shark", "octopus", "seal", "walrus", "penguin", "seagull", "pelican", "flamingo",
+    "eagle", "hawk", "falcon", "owl", "vulture", "woodpecker", "parrot", "macaw", "cockatoo", "pigeon",
+    "sparrow", "robin", "canary", "bluejay", "peacock", "turkey", "chicken", "duck", "goose", "swan",
+    "frog", "toad", "newt", "salamander", "chameleon", "iguana", "lizard", "gecko", "tortoise", "turtle",
+    "snake", "cobra", "python", "anaconda", "rattlesnake", "alligator", "crocodile", "scorpion", "tarantula", "spider",
+    "ant", "bee", "wasp", "hornet", "butterfly", "moth", "dragonfly", "grasshopper", "cricket", "ladybug",
+    "firefly", "mosquito", "termite", "beetle", "centipede", "millipede", "earthworm", "snail", "slug", "jellyfish",
+    "starfish", "seahorse", "clam", "oyster", "lobster", "crab", "shrimp", "squid", "eel", "catfish",
+    "salmon", "trout", "tuna", "sardine", "herring", "anchovy", "goldfish", "guppy", "piranha", "stingray",
+    "chinchilla", "capybara", "lemur", "meerkat", "orangutan", "gorilla", "chimpanzee", "baboon", "proboscismonkey", "howlermonkey",
+    "yak", "alpaca", "llama", "bald eagle", "feral cat", "wild boar", "sea lion", "platypus", "wombat", "civet")
