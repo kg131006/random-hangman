@@ -14,5 +14,3 @@ How to Play:
 Installation:
 	1.	Clone the repo
 	2.	Run python hangman.py
-
-Hope you enjoy it! It’s simple, but hey, it’s a start! 😄
